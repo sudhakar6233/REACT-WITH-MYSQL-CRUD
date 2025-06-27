@@ -1,0 +1,12 @@
+.nav-link-custom {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #ffffff !important;
+  margin-left: 15px;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-link-custom:hover {
+  color: #ffc107 !important; 
+  text-decoration:orangered underline;
+}
